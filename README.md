@@ -7,3 +7,5 @@ Using the PyTorch framework for neural networks
 # Usage
 train.py为对数据集的单次EPOCH训练  
 train_iter.py为对数据集的多次EPOCH训练  
+
+如果觉得不错！点个star！
